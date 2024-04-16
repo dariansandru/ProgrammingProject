@@ -1,0 +1,31 @@
+iPhone 8,200,10
+iPhone 8 Pro Max,250,10
+iPhone X,300,15
+iPhone X Pro Max,350,10
+iPhone 11,500,10
+iPhone 12,550,10
+iPhone 13,600,12
+iPhone 13 Pro,625,10
+iPhone 13 Golden,625,10
+iPhone 13 Silver,625,10
+iPhone 14,800,15
+iPhone 15,1000,11
+iPhone 15 Pro Max,1200,10
+Samsung Galaxy Generic Name 1 Phone,400,10
+Samsung Galaxy Generic Name 2 Phone,1200,10
+Samsung Galaxy Interesting Name 1 Phone,1300,10
+Samsung Galaxy Interesting Name 2 Phone,600,10
+Samsung Smart TV Pro Max Ultra Mega Deluxe Edition,1000,10
+Samsung Smart TV Edition 'Edition',200,10
+Samsung Smart TV 144HZ,500,10
+Samsung WW2,100,13
+Galaxy Watch 2,200,12
+Galaxy Watch 6,250,10
+Nokia Accident,500,17
+Laptop Macbook Air M1,1000,6
+Laptop Macbook Air M2,1500,4
+Laptop Macbook Air M3,1800,10
+Laptop ASUS Intel I9 GPU NVIDIA Super,2500,5
+Laptop ASUS Intel I7 No GPU,1800,5
+Laptop DELL,1000,10
+Laptop HP,800,20
