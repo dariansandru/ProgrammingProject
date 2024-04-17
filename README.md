@@ -13,7 +13,7 @@ If running the executable is not possible directly, you may want to try:
 
 #### macOS/Linux
 The working directory may not load correctly at runtime, causing a segfault.
-Therefore we recommend running the program using the provided program.sh file.
+Therefore I recommend running the program using the provided program.sh file.
 If you encounter issues with this, there are two ways to run it regardless:
 1. Give executable perms to program.sh: `chmod +x program.sh`
 2. Just run the project directly but from Terminal: `./Project` 
